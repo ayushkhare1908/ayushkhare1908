@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushkhare
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java and devops 
+- 👀 I’m interested in Full Stack web development - Frontend and Backend
+- 🌱 I’m currently learning java and .net and devops 
 - 📫 How to reach me @ayushkhare50@gmail.com
 
 <!---
