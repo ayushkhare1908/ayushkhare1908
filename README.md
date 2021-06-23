@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushkhare
 - 👀 I’m interested in Full Stack web development - Frontend and Backend
-- 🌱 I’m currently learning java and .Net and devops.
+- 🌱 I’m currently learning C# and .Net framework .
 - 📫 How to reach me @ayushkhare50@gmail.com
 -     An Open Source Contributor.
 
