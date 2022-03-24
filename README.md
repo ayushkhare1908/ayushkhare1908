@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushkhare
-- 👀 I’m interested in Full Stack web development - Frontend and Backend
+- 👀 I’m interested in Frontend Web development.
 - 🌱 I'm a Angular Developer.
 - 📫 How to reach me @ayushkhare50@gmail.com
 -     An Open Source Contributor.
